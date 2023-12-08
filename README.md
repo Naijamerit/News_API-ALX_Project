@@ -1,6 +1,11 @@
 PROJECT NAME
  NewsApp
 
+PROJECT LINK
+https://my-newsapi.netlify.app/
+
+Clone Project here: https://github.com/Naijamerit/News_API-ALX_Project.git
+
 INTRODUCTION
 Welcome to NewsApp, your go-to source for breaking news, insightful articles, and personalized content tailored to your interests. With our user-friendly interface and comprehensive coverage, staying informed has never been easier.
 
